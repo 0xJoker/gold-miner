@@ -8,7 +8,7 @@
 
 **_We have been living in a world of ‘clean and minimal’ for quite some time, so what’s next?_**
 
-** 我们生活在一个“干净、简约”的世界有些时候了，接下来会怎么样呢？
+**我们生活在一个“干净、简约”的世界有些时候了，接下来会怎么样呢？**
 
 Over the last several months, some of the leaders of innovative design have taken ‘minimal design’ to the next level. Facebook, Airbnb and Apple have followed a similar blueprint to simplify prominent products in a way that reflects this new trend of ‘Complexion Reduction’ in mobile design.
 
@@ -24,11 +24,11 @@ You’ve never heard of ‘Complexion Reduction’ you say? Well yea, that’s b
 
 <span class="markup--quote markup--p-quote is-other" data-creator-ids="b0dc62008bd7">**The defining characteristics of this _hot new trend_ sweeping across Silicon Valley are:**</span>
 
-<span class="markup--quote markup--p-quote is-other" data-creator-ids="b0dc62008bd7">**风靡硅谷的新趋势有以下特点：**</span>
-
 1.  <span class="markup--quote markup--li-quote is-other" data-creator-ids="b0dc62008bd7">**Bigger, bolder headlines**</span>
 2.  <span class="markup--quote markup--li-quote is-other" data-creator-ids="b0dc62008bd7">**Simpler more universal icons**</span>
 3.  <span class="markup--quote markup--li-quote is-other" data-creator-ids="b0dc62008bd7">**Extraction of color**</span>
+
+<span class="markup--quote markup--p-quote is-other" data-creator-ids="b0dc62008bd7">**风靡硅谷的新趋势有以下特点：**</span>
 
 1.  <span class="markup--quote markup--li-quote is-other" data-creator-ids="b0dc62008bd7">**标题更大、更粗**</span>
 2.  <span class="markup--quote markup--li-quote is-other" data-creator-ids="b0dc62008bd7">**图标更简单、更常见**</span>
@@ -112,20 +112,21 @@ So you’re sold on CR and ready to hop on the bandwagon? Good, follow these gui
 
 > **1\. Remove Color.** Well ok, you can have one color, but use it extremely sparingly to indicate action. Everything else better be black and white. Let the content of your app bring the color.
 
-> **1\. 去除颜色。**当然你可以有一种主题色，但是要慎用，尽量只用在指示操作上。剩下的最好都用黑白色，凸显你应用的内容。
-
 > **2\. Bigger, Bolder, Blacker Headlines.** You see that headline there? Bump it up about 20 to 30 pixels and make it HEAVY.
-
-> **2\. 更大、更粗、颜色更黑的标题。**你看到那个标题了吗？将它增加约20至30像素，让它看起来“重”一些。
 
 > **3\. Simple, Thin, Recognizable Icons.** Your icons better be universal and no color allowed here either. And if you want bonus points order them left to right in this way: home, search, primary action, secondary action, profile.
 
-> **3\. 简单、辨识度高的图标。**应用里的图标（底部导航的图标）最好很常见，周围也不要有什么颜色。把它们从左到右按这种顺序排列；主页、搜索、主要操作、次要操作、个人中心，这样体验更好。
-
 > **4\. Double, NO, Triple your White Space.** Maybe even quadruple it. You really can’t go wrong here.
-
-> **4\. 增加两倍甚至三倍的留白。**甚至四倍留白，多点总没错。
 
 > **5\. Make your App Icon Brighter**. If you are fiending to design something with flash and color, make it the app icon. This is where you put your personality and brand. And make it stand out!
 
+> **1\. 去除颜色。**当然你可以有一种主题色，但是要慎用，尽量只用在指示操作上。剩下的最好都用黑白色，凸显你应用的内容。
+
+> **2\. 更大、更粗、颜色更黑的标题。**你看到那个标题了吗？将它增加约20至30像素，让它看起来“重”一些。
+
+> **3\. 简单、辨识度高的图标。**应用里的图标（底部导航的图标）最好很常见，周围也不要有什么颜色。把它们从左到右按这种顺序排列；主页、搜索、主要操作、次要操作、个人中心，这样体验更好。
+
+> **4\. 增加两倍甚至三倍的留白。**甚至四倍留白，多点总没错。
+
 > **5\. 应用图标颜色更亮些。**如果你喜欢设计一些带有闪光和颜色的东西，就做应用图标吧。在这里可以表现你的个性和品牌，让它脱颖而出！
+
